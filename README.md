@@ -1,9 +1,11 @@
 # Wingi-Sales-Data-Analysis
 End-to-end data analysis project using Excel, SQL, and Power BI
+
 📊 Wingi Data Analysis Project
+
 📌 Project Overview
 
-This project analyzes Wingi ride/order data to generate insights about:
+This project analyzes Wingi order data to generate insights about:
 
 Peak order days
 
